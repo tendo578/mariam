@@ -1,0 +1,7 @@
+body { 
+background-image: url(as.jpg), url(go.jpg);
+background-repeat: no-repeat;
+background-position: top right, top left;
+background-color: black;
+background-size: 600px, 600px;
+}
